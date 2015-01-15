@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">" WeatherForecast"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="getwether">Get  Weather Forecast</string>
+    <string name="bycity">By City</string>
+    <string name="bygps">By GPS</string>
+    <string name="title_activity_by_city">ByCity</string>
+    <string name="title_activity_by_gps">ByGps</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_weather__details">Weather_Details</string>
+    <string name="hinttext">Enter City name separeted by comma</string>
+
+</resources>
