@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context="com.app.weatherforecast.ByCity"
     tools:ignore="MergeRootFrame" >
-
+    <!-- Comments-->
     <RelativeLayout
         android:id="@+id/headertext"
         android:layout_width="fill_parent"
