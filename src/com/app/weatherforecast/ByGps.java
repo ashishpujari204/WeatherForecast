@@ -41,7 +41,7 @@ public class ByGps extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_by_gps);
 
-		init();//by gps...........Checking Branching
+		init();//by gps...Branching...:)
 	}
 
 	private void init() {
@@ -82,7 +82,7 @@ public class ByGps extends Activity {
 				{
 					url="http://api.openweathermap.org/data/2.5/forecast/daily?lat="+gpsTracker.latitude+"&lon="+gpsTracker.longitude+"&cnt=14&APPID=2296c2ab591cb588ab3c472d2e92af51";
 				}
-			
+
 				new  WebConnectionAsyncgetWetherDeatils(url,ByGps.this).execute();
 			}else
 			{
