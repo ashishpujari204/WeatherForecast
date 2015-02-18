@@ -38,7 +38,7 @@ public class ByGps extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_by_gps);
 
-		init();
+		init();//by gps
 	}
 
 	private void init() {
