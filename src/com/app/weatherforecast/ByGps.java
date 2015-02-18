@@ -41,7 +41,7 @@ public class ByGps extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_by_gps);
 
-		init();//by gps...
+		init();//by gps...........Checking Branching
 	}
 
 	private void init() {
