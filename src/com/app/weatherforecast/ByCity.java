@@ -27,6 +27,9 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import Adapters.MyAdpater;
+import Classses.WeatherClass;
+
 public class ByCity extends Activity {
 
 	private EditText cityname_txt;

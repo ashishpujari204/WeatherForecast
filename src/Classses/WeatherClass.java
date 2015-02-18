@@ -1,4 +1,4 @@
-package com.app.weatherforecast;
+package Classses;
 
 import android.os.Parcel;
 import android.os.Parcelable;

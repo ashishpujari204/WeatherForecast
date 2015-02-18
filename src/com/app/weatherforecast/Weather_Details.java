@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import Classses.WeatherClass;
+
 public class Weather_Details extends Activity {
 
 	TextView date_txt,day_t_txt,min_t_txt,max_t_txt,night_t_txt,eve_t_txt,morn_t_txt,pressure_txt,humidity_txt,speed_txt,deg_txt,desc_txt;
