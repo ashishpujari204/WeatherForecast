@@ -22,6 +22,9 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import Adapters.MyAdpater;
+import Classses.WeatherClass;
+
 public class ByGps extends Activity {
 
 	ConnectionDetector cd;
@@ -38,7 +41,7 @@ public class ByGps extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_by_gps);
 
-		init();//by gps
+		init();//by gps...
 	}
 
 	private void init() {
