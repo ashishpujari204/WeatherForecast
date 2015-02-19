@@ -47,7 +47,7 @@ public class ByCity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_by_city);
 
-		init();//intialize methods ******
+		init();//intialize methods ******...
 
 
 	}
